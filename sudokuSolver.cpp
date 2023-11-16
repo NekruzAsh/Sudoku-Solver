@@ -15,11 +15,6 @@ enjoy!
 
 
 
-
-
-
-
-
 /*
 *   find_next_empty()
 *   
